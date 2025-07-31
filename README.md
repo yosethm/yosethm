@@ -2,29 +2,30 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZodzIxbnEwdThrbXA2Y3QxenZoMm9zemQzNnptdHdnYzliM3pneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lmFm5QZMzdmQ8/giphy.gif" width="200"/>
 </div>
 
-<h1 align="center"> Yoseth Mosquera ⭐ </h1>
+<h1 align="center">Hi, im Yoseth </h1>
 
 <div align="center">
-  📚 Estudiante de <strong>Ingeniería Eléctrica</strong> en la <strong>Universidad de Antioquia</strong> 💚<br>
-  🧠 Apasionado por la programación, el análisis de datos y la creación de herramientas útiles con Python ⚡
+  📚 Electrical Engineering student at <strong>University of Antioquia</strong> 💚<br>
+  🧠 Passionate about programming, data analysis, and building tools with Python ⚡
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-- 🔍 Me interesa todo lo relacionado con la **tecnología, automatización y ciencia de datos**.
-- 📊 Me encanta el análisis de datos usando:
+- 🔍 I'm interested in **technology, automation, and data science**.
+- 🤖 I'm currently learning **Artificial Intelligence** and exploring **Machine Learning** concepts.
+- 📊 I love working with data using:
   - `pandas` 🐼
   - `numpy` 🔢
   - `matplotlib` 📈
   - `seaborn` 🌊
-- 🧩 Disfruto resolver problemas y construir aplicaciones interactivas con **Streamlit** y **Flet**.
-- 📨 Correo de contacto: **yoseth.mparra@udea.edu.co**
+- 🧩 I enjoy solving problems and building interactive apps with **Streamlit** and **Flet**.
+- 📨 Contact me: **yoseth.mparra@udea.edu.co**
 
 ---
 
-## 🛠️ Herramientas y tecnologías
+## 🛠️ Tools & Technologies
 
 <div align="center">
 
@@ -37,6 +38,7 @@
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-0E4C92?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=sklearn&logoColor=white" />
 
 </div>
 
@@ -54,7 +56,7 @@
 
 ---
 
-## 🌐 Redes sociales
+## 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.instagram.com/yosethm_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>

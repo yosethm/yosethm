@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <h1>Hello, I'm Yoseth Mosquera 👋</h1>
-  <p>Student at <strong>University of Antioquia</strong> 🇨🇴</p>
+  <h1>I'm Yoseth 👋</h1>
+  <p>Student at <strong>University of Antioquia</strong>  🇨🇴</p>
   <p>I work with <strong>Python</strong> 🐍, have some experience with <strong>MySQL</strong>, and enjoy building useful and creative projects.</p>
 
   [![GitHub](https://img.shields.io/badge/GitHub-yosethm-black?logo=github&style=flat-square)](https://github.com/yosethm)
@@ -51,5 +51,4 @@
 
 ---
 
-<sub>🛠️ Inspirado en perfiles creativos de la comunidad GitHub. Última actualización: 2025.</sub>
 

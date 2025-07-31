@@ -1,12 +1,16 @@
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZodzIxbnEwdThrbXA2Y3QxenZoMm9zemQzNnptdHdnYzliM3pneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lmFm5QZMzdmQ8/giphy.gif" width="300" alt="Cool GIF" />
+</div>
+
 ## Hi there 👋
 
 <div align="center">
-  <img width="120" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" alt="Linux" />
+  <img width="120" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" alt="Avatar" />
 </div>
 
 <div align="center">
   <h1>I'm Yoseth 👋</h1>
-  <p>Student at <strong>University of Antioquia</strong>  🇨🇴</p>
+  <p>Student at <strong>University of Antioquia</strong> 🇨🇴</p>
   <p>I work with <strong>Python</strong> 🐍, have some experience with <strong>MySQL</strong>, and enjoy building useful and creative projects.</p>
 
   [![GitHub](https://img.shields.io/badge/GitHub-yosethm-black?logo=github&style=flat-square)](https://github.com/yosethm)
@@ -44,10 +48,14 @@
   Feel free to reach out on my socials or check out my projects!
 </div>
 
+<p align="center">
   <a href="mailto:yoseth@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://instagram.com/yosethm_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://x.com/sukunafngr"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-</div>
+</p>
+
+---
+
 
 ---
 

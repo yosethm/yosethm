@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img width="120" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" alt="Avatar" />
+  <img width="120" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" alt="Linux" />
 </div>
 
 <div align="center">

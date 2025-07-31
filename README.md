@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <h1>Hola, soy Yoseth Mosquera 👋</h1>
-  <p>Estudiante de la <strong>Universidad de Antioquia</strong> 🇨🇴</p>
-  <p>Manejo <strong>Python</strong> 🐍, algo de <strong>MySQL</strong> y disfruto construir proyectos útiles y creativos.</p>
+  <h1>Hello, I'm Yoseth Mosquera 👋</h1>
+  <p>Student at <strong>University of Antioquia</strong> 🇨🇴</p>
+  <p>I work with <strong>Python</strong> 🐍, have some experience with <strong>MySQL</strong>, and enjoy building useful and creative projects.</p>
 
   [![GitHub](https://img.shields.io/badge/GitHub-yosethm-black?logo=github&style=flat-square)](https://github.com/yosethm)
   [![Instagram](https://img.shields.io/badge/@yosethm__-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/yosethm_/)
@@ -20,8 +20,8 @@
 
 <div align="center">
 
-| Lenguajes | Bases de datos | Herramientas |
-| --------- | -------------- | ------------ |
+| Languages | Databases | Tools |
+| --------- | --------- | ----- |
 | <img src="https://skillicons.dev/icons?i=python" /> | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=git,vscode" /> |
 
 </div>
@@ -38,9 +38,12 @@
 
 ---
 
-## 💬 Contacto
+## 💬 Contact
 
 <div align="center">
+  Feel free to reach out on my socials or check out my projects!
+</div>
+
   <a href="mailto:yoseth@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://instagram.com/yosethm_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://x.com/sukunafngr"><img src="https://skillicons.dev/icons?i=twitter" /></a>

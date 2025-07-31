@@ -2,10 +2,28 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZodzIxbnEwdThrbXA2Y3QxenZoMm9zemQzNnptdHdnYzliM3pneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lmFm5QZMzdmQ8/giphy.gif" width="300" alt="Cool GIF" />
 </div>
 
-## Hi there 👋
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+@keyframes blink {
+  50% { border-color: transparent }
+}
+.typing {
+  font-weight: bold;
+  font-size: 30px;
+  width: 12ch;
+  animation: typing 3s steps(12), blink 0.5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  margin: 0 auto;
+}
+</style>
 
 <div align="center">
-  <h1>I'm Yoseth 👋</h1>
+  <div class="typing">I'm Yoseth 👋</div>
   <p>Student at <strong>University of Antioquia</strong> 🇨🇴</p>
   <p>I work with <strong>Python</strong> 🐍, have some experience with <strong>MySQL</strong>, and enjoy building useful and creative projects.</p>
 
@@ -38,6 +56,14 @@
 
 ---
 
+## 👀 Visitors
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yosethm&label=Profile%20views&color=blue&style=flat" alt="Profile views" />
+</div>
+
+---
+
 ## 💬 Contact
 
 <div align="center">
@@ -45,12 +71,13 @@
 </div>
 
 <p align="center">
-  <a href="mailto:yoseth@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:yoseth.mparra@udea.edu.co"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://instagram.com/yosethm_"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://x.com/sukunafngr"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 ---
+
 
 
 
